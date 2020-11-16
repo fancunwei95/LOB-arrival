@@ -1,0 +1,31 @@
+train ask
+epoch: 00, Train Loss: 0.9662, Test Loss: 0.9668
+epoch: 01, Train Loss: 0.9560, Test Loss: 0.9624
+epoch: 02, Train Loss: 0.9486, Test Loss: 0.9429
+epoch: 03, Train Loss: 0.9458, Test Loss: 0.9401
+epoch: 04, Train Loss: 0.9448, Test Loss: 0.9416
+epoch: 05, Train Loss: 0.9449, Test Loss: 0.9445
+epoch: 06, Train Loss: 0.9451, Test Loss: 0.9424
+epoch: 07, Train Loss: 0.9444, Test Loss: 0.9408
+epoch: 08, Train Loss: 0.9436, Test Loss: 0.9407
+epoch: 09, Train Loss: 0.9443, Test Loss: 0.9446
+epoch: 10, Train Loss: 0.9406, Test Loss: 0.9397
+epoch: 11, Train Loss: 0.9399, Test Loss: 0.9399
+train bid
+epoch: 00, Train Loss: 0.9643, Test Loss: 0.9786
+epoch: 01, Train Loss: 0.9536, Test Loss: 0.9596
+epoch: 02, Train Loss: 0.9452, Test Loss: 1.0279
+epoch: 03, Train Loss: 0.9424, Test Loss: 0.9557
+epoch: 04, Train Loss: 0.9412, Test Loss: 0.9522
+epoch: 05, Train Loss: 0.9400, Test Loss: 0.9599
+epoch: 06, Train Loss: 0.9400, Test Loss: 0.9725
+epoch: 07, Train Loss: 0.9399, Test Loss: 0.9553
+epoch: 08, Train Loss: 0.9403, Test Loss: 0.9555
+epoch: 09, Train Loss: 0.9405, Test Loss: 0.9543
+epoch: 10, Train Loss: 0.9372, Test Loss: 0.9541
+epoch: 11, Train Loss: 0.9360, Test Loss: 0.9523
+          bid_model  ask_model
+loss       0.952325   0.939863
+AUC        0.593771   0.597461
+f1_score   0.188820   0.181841
+accuracy   0.642466   0.638360
